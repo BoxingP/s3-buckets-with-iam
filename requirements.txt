@@ -1,0 +1,3 @@
+aws-cdk.core==1.128.0
+aws-cdk.aws_iam==1.128.0
+aws-cdk.aws-s3==1.128.0
